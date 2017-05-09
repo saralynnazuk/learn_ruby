@@ -9,5 +9,4 @@ My solutions to 'Project: Ruby', a component of the Web Development 101 section 
 * 05_book_titles
 * 06_timer
 
-If you'd like to give the exercises a go yourself, click  
-[here](https://github.com/TheOdinProject/learn_ruby) and follow the README instructions.
+If you'd like to give the exercises a go yourself, click [here](https://github.com/TheOdinProject/learn_ruby) and follow the README instructions.
